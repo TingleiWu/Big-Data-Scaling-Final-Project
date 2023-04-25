@@ -36,6 +36,11 @@ By further evaluating our results against a benchmark to ensure their accuracy. 
 <img width="580" alt="Screen Shot 2023-04-24 at 9 30 23 PM" src="https://user-images.githubusercontent.com/89117508/234174117-39619859-afd1-4c91-ba7e-0e2226385e43.png">
 
 
+- Pearson correlation for sequential method:  0.9999971226324659
+- Pearson correlation for parallel method:  0.999996979003304
+- Mean square error for sequential method:  893.3275
+- Mean square error for parallel method:  940.4275
+
 
 
 # Conclusion
