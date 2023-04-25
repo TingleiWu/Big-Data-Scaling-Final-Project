@@ -13,7 +13,7 @@
 Bioinformatics is a field that involves the application of computational techniques and tools to analyze biological data, and one of the common challenges faced in this field is the alignment of reads to the reference genome. This task is particularly difficult due to several factors such as the large size of the reference genome, point mutations, and sequencing errors present in the reads. These issues can result in significant computational costs and time-consuming alignment processes. To address these challenges, researchers have turned to innovative solutions such as minhash. Minhash is a technique that can be used to align second-generation sequencing reads to the reference genome, and it has been found to be effective in reducing computational costs and speeding up the alignment process. The primary objective of this project is to leverage minhash to identify the most similar bin in the reference genome for each read and record the most similar bin for each read as well as the similarity measure.
 
 # Method
-
+ 
 - Kmers
 - One-Hot Encoding
 - Minhash
