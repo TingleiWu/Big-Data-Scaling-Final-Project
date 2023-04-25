@@ -5,6 +5,7 @@
 - [Method](#method)
 - [Results](#results)
 - [Conclusion](#conclusion)
+- [Contributors](#contributors)
 
 
 # Introduction
@@ -42,4 +43,9 @@ In conclusion, our approach of using minhash to determine the most similar refer
 Overall, our approach holds great potential for various applications, including bioinformatics, data mining, and information retrieval. The results of this study can be used to guide further research in these areas and contribute to the development of more efficient and accurate algorithms for data analysis.
 
 
+# Contributors
+
+- Tinglei Wu (tinglei.wu@vanderbilt.edu)
+- Minghao Zhao (minghao.zhao@vanderbilt.edu)
+- Jingting Xu (jingting.xu@vanderbilt.edu)
 
