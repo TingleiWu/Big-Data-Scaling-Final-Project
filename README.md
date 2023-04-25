@@ -33,7 +33,8 @@ Comparing the difference in running time between sequential programming and para
 
 By further evaluating our results against a benchmark to ensure their accuracy. To do so, we compared the end position of the reference bin from our approach to the end position of the reference bin from the benchmark dataset. We used the Pearson correlation coefficient to measure the strength of the correlation between the two sets of data, and found a very high correlation coefficient of 0.99999. This means that our approach produced results that are strongly correlated with the benchmark data. We also calculated the mean square error between the two sets of data, which gave us a value of around 898.1. While this value may seem high at first glance, it falls within the range of our expectations.
 
-<img width="585" alt="Screen Shot 2023-04-24 at 9 13 00 PM" src="https://user-images.githubusercontent.com/89117508/234158700-dce1fc8d-38d1-4740-84b2-d3b6478f3c73.png">
+<img width="580" alt="Screen Shot 2023-04-24 at 9 30 23 PM" src="https://user-images.githubusercontent.com/89117508/234174117-39619859-afd1-4c91-ba7e-0e2226385e43.png">
+
 
 
 
