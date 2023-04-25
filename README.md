@@ -28,7 +28,8 @@ The reference bin with the highest Jaccard similarity for each read:
 
 Comparing the difference in running time between sequential programming and parallel programming: 
 
-<img width="670" alt="Screen Shot 2023-04-24 at 9 06 42 PM" src="https://user-images.githubusercontent.com/89117508/234156991-c3448f86-ec15-40d6-8580-8f80e1b19640.png">
+<img width="631" alt="Screen Shot 2023-04-24 at 11 20 45 PM" src="https://user-images.githubusercontent.com/89117508/234173710-412b736f-cfb3-453f-b091-83ef32e55e44.png">
+
 
 By further evaluating our results against a benchmark to ensure their accuracy. To do so, we compared the end position of the reference bin from our approach to the end position of the reference bin from the benchmark dataset. We used the Pearson correlation coefficient to measure the strength of the correlation between the two sets of data, and found a very high correlation coefficient of 0.99999. This means that our approach produced results that are strongly correlated with the benchmark data. We also calculated the mean square error between the two sets of data, which gave us a value of around 898.1. While this value may seem high at first glance, it falls within the range of our expectations.
 
